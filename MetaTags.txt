@@ -1,0 +1,14 @@
+
+<META http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<META NAME="DC.Title" CONTENT="The 23rd Hussars">
+<META NAME="DC.Creator" CONTENT="hussarman_AT_outlook_DOT_com">
+<META NAME="DC.Description" CONTENT="Information regarding the 23rd Hussars during World War Two">
+<META NAME="DC.Subject.Category" CONTENT="Military History; ww2; Normandy Breakout">
+<META NAME="DC.Subject.Keywords" CONTENT="23rd Hussars; twenty-third hussars; 23H; 11th Armoured Division; Black Bull; Epsom; Goodwood; Bluecoat; Perrier Ridge; Amiens; Antwerp; Belsen; Husum">
+<META NAME="DC.Date" SCHEME="ISO8601" CONTENT="2015-10-31">
+<META NAME="DC.Type" CONTENT="Text">
+<META NAME="DC.Format" SCHEME="IMT" CONTENT="text/html">
+<META NAME="DC.Language" SCHEME="ISO639-1" CONTENT="en">
+<META NAME="DC.Coverage.Spatial" CONTENT="England; Normandy; France; Belgium; Holland; Germany; Schleswig-Holstein">
+<META NAME="DC.Coverage.temporal" CONTENT="1940/1946">
+<META NAME="DC.Rights" CONTENT="@ Neil Grimshaw, All rights reserved">
