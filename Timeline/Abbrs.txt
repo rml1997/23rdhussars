@@ -1,0 +1,54 @@
+
+<acronym title="Anti-Aircraft">AA</acronym>
+
+<acronym title="Armoured Fighting Vehicle">AFV</acronym>
+
+<acronym title="Commanding Officer">CO</acronym>
+
+<acronym title="Field General Court Martial">F.G.C.M.</acronym>
+
+<acronym title="Women's Auxiliary Air Force">W.A.A.F.</acronym>
+
+<acronym title="Central Ordnance Depot">C.O.D.</acronym> 
+
+<acronym title="Chief Ordnance Officer">C.O.O.</acronym> 
+
+<acronym title="Officer Commanding">O.C.</acronym> 
+
+<acronym title="General Officer Commanding">G.O.C.</acronym> 
+
+<acronym title="General Officer Commander-in-Chief">G.O.C-in-C.</acronym> 
+
+<acronym title="Light Aid Detachment">LAD</acronym> 
+
+<acronym title="Non-Commissioned Officer">NCO</acronym> 
+
+<acronym title="Officer Cadet Training Unit">OCTU</acronym> 
+
+<acronym title="Royal Armoured Corps">RAC</acronym> 
+
+<acronym title="Royal Army Service Corps">RASC</acronym> 
+
+<a href="../Tanks/Training/trlist.html">XXth Training Regiment</a>
+
+<acronym title="Birmingham Small Arms Company">BSA</acronym>
+
+<acronym title="Tactical Exercise Without Troops">TEWT</acronym>
+
+<acronym title="Forward Delivery Squadron">FDS</acronym>
+
+<acronym title="Royal Tank Regiment">RTR</acronym>
+
+<acronym title="8th Battalion, the Rifle Brigade">8th RB</acronym>
+
+<acronym title="2nd Fife and Forfar Yeomanry">2nd F &amp; F</acronym>
+
+<acronym title="Displaced Persons">DPs</acronym>
+
+<acronym title="Royal Electrical and Mechanical Engineers">REME</acronym>
+
+<acronym title="Reichsarbeitsdienst - Labour Service of the Third Reich">R.A.D.</acronym>
+
+<acronym title="Naval Operational Intelligence Centre">N.O.I.C.</acronym> 
+
+<acronym title="United Nations Relief and Rehabilitation Administration">UNRRA</acronym>
