@@ -1,0 +1,115 @@
+
+Name:		C G Baker
+Rank:		Trooper
+Army Number:	873599
+Regiment:	Reconnaissance Corps
+POW Number:	11342
+Camp Type:	Stalag
+Camp Number:	XX-B
+Camp Location:	Malbork, Poland
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+
+Name:		G M Behr
+Rank:		Trooper
+Army Number:	7944596
+Regiment:	Reconnaissance Corps
+POW Number:	71009
+Camp Type:	Stalag
+Camp Number:	IV-D
+Camp Location:	Torgau, Saxony
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+Name:		W Chatterton
+Rank:		Trooper
+Army Number:	7882203
+Regiment:	Reconnaissance Corps
+POW Number:	81175
+Camp Type:	Stalag
+Camp Number:	VIII-C
+Camp Location:	Konin Zaganski, Poland
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+Name:		W Collie
+Rank:		Trooper
+Army Number:	7936923
+Regiment:	Reconnaissance Corps
+POW Number:	81176
+Camp Type:	Stalag
+Camp Number:	VIII-A
+Camp Location:	Görlitz, Saxony
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+Name:		A S Cook
+Rank:		Trooper
+Army Number:	14319119
+Regiment:	Reconnaissance Corps
+POW Number:	81177
+Camp Type:	Stalag
+Camp Number:	VIII-C
+Camp Location:	Konin Zaganski, Poland
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+Name:		C A Freestone
+Rank:		Corporal
+Army Number:	7910995
+Regiment:	Reconnaissance Corps
+POW Number:	70778
+Camp Type:	Stalag
+Camp Number:	357
+Camp Location:	Oerbke, Lower Saxony
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+
+Name:		A L Kerton
+Rank:		Lieutenant
+Army Number:	302364
+Regiment:	Reconnaissance Corps
+POW Number:	70014
+Camp Type:	Oflag
+Camp Number:	79
+Camp Location:	Brunswick, Lower Saxony
+
+
+Name:		A McL Lowe
+Rank:		Trooper
+Army Number:	14297532
+Regiment:	Reconnaissance Corps
+POW Number:	81166
+Camp Type:	Stalag
+Camp Number:	VIII-C
+Camp Location:	Konin Zaganski, Poland
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+
+Name:		R J Martin
+Rank:		Corporal
+Army Number:	7911437
+Regiment:	Reconnaissance Corps
+POW Number:	70832
+Camp Type:	Stalag
+Camp Number:	357
+Camp Location:	Oerbke, Lower Saxony
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+
+Name:		W T Noble
+Rank:		Corporal
+Army Number:	7956235
+Regiment:	Reconnaissance Corps
+POW Number:	81165
+Camp Type:	Stalag
+Camp Number:	IV-B
+Camp Location:	Mühlberg, Elbe, Brandenburg
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
+
+
+Name:		G W Rolfe
+Rank:		Trooper
+Army Number:	14278520
+Regiment:	Reconnaissance Corps
+POW Number:	81055
+Camp Type:	Stalag
+Camp Number:	VIII-C
+Camp Location:	Konin Zaganski, Poland
+Record Office:	Royal Armoured Corps and Reconnaissance Corps Record Office, The Drill Hall, Barnet, Hertfordshire
